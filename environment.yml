@@ -8,5 +8,4 @@ dependencies:
   - pip:
     - pandas
     - matplotlib
-    - twint
 
